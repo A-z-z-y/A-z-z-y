@@ -4,7 +4,7 @@ I’m interested in video games, comics, and cryptography
 
 I’m currently learning C# with a little bit of JavaScript on the side
 
-You can reach me on my Discord at Azzy#1583
+You can reach me on my Discord at Azzy#4227
 
 <!---
 A-z-z-y/A-z-z-y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
