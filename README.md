@@ -2,7 +2,7 @@ Hi, I’m Azzy
 
 I’m interested in video games, comics, and cryptography
 
-I’m currently learning C# with a little bit of JavaScript on the side
+I’m currently quite good at C#, Java, Rust, and Python, but I'm trying out a few other languages here and there.
 
 You can reach me on my Discord at AzzyDev#9734
 
